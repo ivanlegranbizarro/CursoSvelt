@@ -1,0 +1,1 @@
+Pequeña calculadora de gastos realizada enteramente con SVELTE JS.
